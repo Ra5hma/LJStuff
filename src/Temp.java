@@ -23,7 +23,8 @@ public enum Temp {
 
         switch(theTemp) {
             case C:
-               // System.out.println("If the degrees in Celsius are " +  );
+                System.out.println("If the degrees in Celsius are " + "then the Kelvin units would be " + "and the " +
+                        "Fahrenheit temperature would be " );
         }
     }
 }
