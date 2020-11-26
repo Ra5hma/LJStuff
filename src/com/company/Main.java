@@ -24,5 +24,5 @@ public class Main {
         catch(Exception e){
             System.out.println("That's not the right input form, try again please.");
         }//  add a loop to return to input type
-    }//added comment to work git
+    }
 }
