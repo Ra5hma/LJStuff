@@ -25,6 +25,9 @@ public enum Temp {
             case C:
                 System.out.println("If the degrees in Celsius are " + "then the Kelvin units would be " + "and the " +
                         "Fahrenheit temperature would be " );
+            case F:
+                System.out.println("\"If the degrees in Fahrenheit are \" + \"then the Kelvin units would be \" + \"and the \" +\n" +
+                        "                        \"Fahrenheit temperature would be \"");
         }
     }
 }
